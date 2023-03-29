@@ -2,7 +2,8 @@
 int main ()
 {
 	printf("Hello World");
+	printf("today update");
 	return 0;
 
-	printf("today update");
+	
 }
